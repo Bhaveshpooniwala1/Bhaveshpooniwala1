@@ -7,7 +7,6 @@ About Me
 📚 Constantly learning and exploring new technologies to stay updated with industry trends.
 
 Get in Touch
-🔗 Portfolio Website
 📧 Email: pooniwalabhavesh7680@gmail.com
 🐦 Twitter: pooniwala145
 📷 Instagram: bhavesh_pooniwala1
