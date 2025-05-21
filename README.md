@@ -1,26 +1,39 @@
-Hi there! 👋 I'm Bhavesh Pooniwala !!.
+## 👋 Hello, I'm Bhavesh Pooniwala!
 
-I'm a passionate frontend developer with a keen eye for creating beautiful and responsive user interfaces. Welcome to my GitHub repository, where I showcase some of my latest projects and contributions.
+🎓 I'm a passionate Computer Science student, currently in my 2nd year of **B.Tech CSE** at **TSEC, Burhanpur**, and I hold a **Diploma in CSE with 8.5 CGPA**. 
+I enjoy turning ideas into real-world projects with clean, efficient code.
 
-About Me
+### 🚀 About Me
 
-💻 I specialize in frontend technologies such as HTML5, CSS3, JavaScript, and frameworks like Angular.
+- 🎓 **Diploma in Computer Science Engineering** – Completed with **8.5 CGPA**
+- 🎓 Currently pursuing **B.Tech in CSE** (2nd Year)
+- 💻 **Full Stack Web Developer** – Certified in 2024  
+- 🔐 Currently pursuing a **6-month Diploma in Cybersecurity & Ethical Hacking**
+- 🌱 Always learning and exploring new tech in web development and security
 
-🌟 I love turning complex design concepts into elegant, user-friendly interfaces.
+### 💡 Interests
 
-📚 Constantly learning and exploring new technologies to stay updated with industry trends.
+- Cybersecurity & Ethical Hacking
+- kali linux & penetration testing
+- Web Development (Frontend + Backend)
+- Building secure, user-friendly web apps
+- Learning new technologies and frameworks
 
-Get in Touch
+### 🛠️ Tech Stack
 
-📧 Email: pooniwalabhavesh7680@gmail.com
+**Languages & Tools:**
 
-🐦 Twitter: pooniwala145
+Frontend skills -> HTML, CSS, JavaScript, jquery, Angular, Sass
+Framework -> Bootstrap
+Backend -> PHP, mysql
+version control -> Git, Github
+Operating system -> windows, Linux
+Network -> Networking, cisco packet Tracer
 
-📷 Instagram: bhavesh_pooniwala1
+### 📫 Let's Connect!
 
-💼 LinkedIn: Bhavesh Pooniwala
+- 💼 LinkedIn :  https://www.linkedin.com/in/bhavesh-pooniwala-6588b0286/
+- 🌐 Portfolio: https://bhavesh-pooniwala-portfolio.netlify.app/
+- 📧 Email: pooniwalabhavesh7680@gmail.com
 
-<!---
-Bhaveshpooniwala1/Bhaveshpooniwala1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
