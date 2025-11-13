@@ -1,39 +1,67 @@
-## 👋 Hello, I'm Bhavesh Pooniwala!
+# 👨‍💻 Hi, I'm Bhavesh Pooniwala  
+🚀 Cybersecurity Enthusiast | Web Developer | Aspiring Cybersecurity Specialist  
 
-🎓 I'm a passionate Computer Science student, currently in my 2nd year of **B.Tech CSE** at **TSEC, Burhanpur**, and I hold a **Diploma in CSE with 8.5 CGPA**. 
-I enjoy turning ideas into real-world projects with clean, efficient code.
+---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
+🎓 I'm a **B.Tech Computer Science and Engineering** student at *Thakur Shivkumar Singh Memorial Engineering College, Burhanpur (RGPV University).*  
+🛡️ Passionate about **Cybersecurity, Ethical Hacking, and Web Application Security.**  
+💻 Skilled in web development and focused on building secure, high-performance systems.  
+🌱 Currently exploring **malware analysis, network security, and penetration testing.**  
+🎯 **Goal:** To become a professional **Cybersecurity Specialist** and contribute to a safer digital world.  
 
-- 🎓 **Diploma in Computer Science Engineering** – Completed with **8.5 CGPA**
-- 🎓 Currently pursuing **B.Tech in CSE** (2nd Year)
-- 💻 **Full Stack Web Developer** – Certified in 2024  
-- 🔐 Currently pursuing a **6-month Diploma in Cybersecurity & Ethical Hacking**
-- 🌱 Always learning and exploring new tech in web development and security
+---
 
-### 💡 Interests
+### 🛠️ Skills & Tools
 
-- Cybersecurity & Ethical Hacking
-- kali linux & penetration testing
-- Web Development (Frontend + Backend)
-- Building secure, user-friendly web apps
-- Learning new technologies and frameworks
+#### 🧠 Cybersecurity
+- Vulnerability Assessment & Penetration Testing  
+- Network Security (TCP/IP, ICMP, DHCP, DNS)  
+- Malware Analysis & Simulation  
+- Web Application Security (OWASP Top 10)  
+- Linux Security & Log Analysis  
 
-### 🛠️ Tech Stack
+#### 🌐 Web Development
+- Frontend: HTML, CSS, JavaScript, Bootstrap  
+- Backend: PHP, MySQL  
+- Tools: Git, GitHub, VS Code, Postman  
 
-**Languages & Tools:**
+#### ⚙️ Others
+- DSA, Operating Systems, Networking  
+- Version Control & Command Line Tools  
 
-Frontend skills -> HTML, CSS, JavaScript, jquery, Angular, Sass
-Framework -> Bootstrap
-Backend -> PHP, mysql
-version control -> Git, Github
-Operating system -> windows, Linux
-Network -> Networking, cisco packet Tracer
+---
 
-### 📫 Let's Connect!
+### 💡 Projects
 
-- 💼 LinkedIn :  https://www.linkedin.com/in/bhavesh-pooniwala-6588b0286/
-- 🌐 Portfolio: https://bhavesh-pooniwala-portfolio.netlify.app/
-- 📧 Email: pooniwalabhavesh7680@gmail.com
+| 🔐 Project | 💬 Description | 💻 Tech Stack |
+|------------|----------------|---------------|
+| **Web Technology Fingerprinting Tool** | Detects backend technologies and server details of target websites. | Python, Requests, Regex |
+| **Ransomware Attack Simulation** | Safe simulation of ransomware behavior for analysis & awareness. | Python, Cryptography |
+| **KB_Solution** | A web platform providing interactive service-based solutions. | HTML, CSS, JS, PHP, Bootstrap |
 
+---
 
+### 🏆 Certifications
+- Cybersecurity Certification  
+- C/C++ Programming Certification  
+- Web Development Certification  
+
+---
+
+### 📊 GitHub Stats
+
+![Bhavesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhaveshpooniwala1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpooniwala1&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with Me  
+- 🌐 **Portfolio:** [bhavesh-pooniwala-portfolio.netlify.app](https://bhavesh-pooniwala-portfolio.netlify.app/)  
+- 💼 **LinkedIn:** [linkedin.com/in/bhavesh-pooniwala](https://www.linkedin.com/in/bhavesh-pooniwala)  
+- 📧 **Email:** bhaveshpooniwala@gmail.com  
+
+---
+
+⭐ *"Cybersecurity is not just about defense — it's about understanding, adapting, and securing the future."*  
+— **Bhavesh Pooniwala**
