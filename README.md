@@ -1,14 +1,28 @@
-# 👨‍💻 Hi, I'm Bhavesh Pooniwala  
-🚀 Cybersecurity Enthusiast | Web Developer | Aspiring Cybersecurity Specialist  
+<!-- GitHub Profile README for Bhavesh Pooniwala -->
+
+<h1 align="center">👨‍💻 Hi, I'm Bhavesh Pooniwala</h1>
+<h3 align="center">🚀 Cybersecurity Enthusiast | Web Developer | Aspiring Cybersecurity Specialist</h3>
+
+<p align="center">
+  <a href="https://bhavesh-pooniwala-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhavesh-pooniwala" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhaveshpooniwala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
-🎓 I'm a **B.Tech Computer Science and Engineering** student at *Thakur Shivkumar Singh Memorial Engineering College, Burhanpur (RGPV University).*  
+🎓 B.Tech Computer Science and Engineering student at **Thakur Shivkumar Singh Memorial Engineering College**, Burhanpur (RGPV University).  
 🛡️ Passionate about **Cybersecurity, Ethical Hacking, and Web Application Security.**  
 💻 Skilled in web development and focused on building secure, high-performance systems.  
 🌱 Currently exploring **malware analysis, network security, and penetration testing.**  
-🎯 **Goal:** To become a professional **Cybersecurity Specialist** and contribute to a safer digital world.  
+🎯 **Goal:** To become a professional **Cybersecurity Specialist** and contribute to a safer digital world.
 
 ---
 
@@ -50,16 +64,19 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Bhavesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhaveshpooniwala1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpooniwala1&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhaveshpooniwala1&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpooniwala1&layout=compact&theme=radical" height="170" alt="Top Languages" />
+</p>
 
 ---
 
-### 🔗 Connect with Me  
-- 🌐 **Portfolio:** [bhavesh-pooniwala-portfolio.netlify.app](https://bhavesh-pooniwala-portfolio.netlify.app/)  
-- 💼 **LinkedIn:** [linkedin.com/in/bhavesh-pooniwala](https://www.linkedin.com/in/bhavesh-pooniwala)  
-- 📧 **Email:** bhaveshpooniwala@gmail.com  
+### 🔗 Connect with Me
+<p align="center">
+  🌐 <a href="https://bhavesh-pooniwala-portfolio.netlify.app/">Portfolio</a> •
+  💼 <a href="https://www.linkedin.com/in/bhavesh-pooniwala">LinkedIn</a> •
+  📧 <a href="mailto:bhaveshpooniwala@gmail.com">Email</a>
+</p>
 
 ---
 
