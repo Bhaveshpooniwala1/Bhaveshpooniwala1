@@ -1,84 +1,81 @@
-<!-- GitHub Profile README for Bhavesh Pooniwala -->
-
-<h1 align="center">👨‍💻 Hi, I'm Bhavesh Pooniwala</h1>
-<h3 align="center">🚀 Cybersecurity Enthusiast | Web Developer | Aspiring Cybersecurity Specialist</h3>
+<h1 align="center">Hi 👋, I'm Bhavesh Pooniwala</h1>
+<h3 align="center">Cyber Security & Networking Trainer | CEH v13 Trained | SOC | VAPT | Ethical Hacking</h3>
 
 <p align="center">
-  <a href="https://bhavesh-pooniwala-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhavesh-pooniwala" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhaveshpooniwala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=Cyber+Security+%26+Networking+Trainer;CEH+v13+Trained;SOC+%7C+VAPT+%7C+Ethical+Hacking;Network+Security+%7C+Linux+%7C+Python" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-🎓 B.Tech Computer Science and Engineering student at **Thakur Shivkumar Singh Memorial Engineering College**, Burhanpur (RGPV University).  
-🛡️ Passionate about **Cybersecurity, Ethical Hacking, and Web Application Security.**  
-💻 Skilled in web development and focused on building secure, high-performance systems.  
-🌱 Currently exploring **malware analysis, network security, and penetration testing.**  
-🎯 **Goal:** To become a professional **Cybersecurity Specialist** and contribute to a safer digital world.
+## 👨‍💻 About Me
+
+I am **Bhavesh Pooniwala**, a Cyber Security & Networking Trainer at **IANT Indore** and a B.Tech CSE student passionate about cybersecurity, networking, ethical hacking, SOC operations, and VAPT.
+
+I enjoy building practical labs, security tools, networking projects, and sharing cybersecurity knowledge with students and the community.
 
 ---
 
-### 🛠️ Skills & Tools
+## 🚀 Current Focus
 
-#### 🧠 Cybersecurity
-- Vulnerability Assessment & Penetration Testing  
-- Network Security (TCP/IP, ICMP, DHCP, DNS)  
-- Malware Analysis & Simulation  
-- Web Application Security (OWASP Top 10)  
-- Linux Security & Log Analysis  
-
-#### 🌐 Web Development
-- Frontend: HTML, CSS, JavaScript, Bootstrap  
-- Backend: PHP, MySQL  
-- Tools: Git, GitHub, VS Code, Postman  
-
-#### ⚙️ Others
-- DSA, Operating Systems, Networking  
-- Version Control & Command Line Tools  
+- 🔐 Cyber Security & Ethical Hacking  
+- 🛡️ SOC Analyst Skills  
+- 🧪 Vulnerability Assessment & Penetration Testing  
+- 🌐 Network Security  
+- 🐧 Linux & Kali Linux  
+- 🧰 Cybersecurity Tools & Labs  
 
 ---
 
-### 💡 Projects
+## 🛠️ Skills & Tools
 
-| 🔐 Project | 💬 Description | 💻 Tech Stack |
-|------------|----------------|---------------|
-| **Web Technology Fingerprinting Tool** | Detects backend technologies and server details of target websites. | Python, Requests, Regex |
-| **Ransomware Attack Simulation** | Safe simulation of ransomware behavior for analysis & awareness. | Python, Cryptography |
-| **KB_Solution** | A web platform providing interactive service-based solutions. | HTML, CSS, JS, PHP, Bootstrap |
+### Cyber Security
+`Ethical Hacking` `VAPT` `SOC` `OWASP Top 10` `Web Security` `Network Security`
+
+### Tools
+`Nmap` `Burp Suite` `Wireshark` `Metasploit` `Nessus` `Nikto` `Hydra` `Gobuster`
+
+### Networking
+`CCNA` `TCP/IP` `Routing` `Switching` `VLAN` `ACL` `DNS` `DHCP`
+
+### Programming
+`Python` `Bash` `PowerShell Basic` `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🏆 Certifications
-- Cybersecurity Certification  
-- C/C++ Programming Certification  
-- Web Development Certification  
+## 📌 Featured Projects
+
+- 🔐 **Locker Ransomware Attack Simulation**
+- 🕵️ **Web Technology Fingerprinting Tool**
+- 📡 **Network Packet Analyzer**
+- 🎣 **AI Phishing Detection System**
+- 🌐 **Cybersecurity Portfolio Website**
+- 🧪 **VAPT Practice Labs**
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhaveshpooniwala1&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpooniwala1&layout=compact&theme=radical" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhaveshpooniwala1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaveshpooniwala1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpooniwala1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
-<p align="center">
-  🌐 <a href="https://bhavesh-pooniwala-portfolio.netlify.app/">Portfolio</a> •
-  💼 <a href="https://www.linkedin.com/in/bhavesh-pooniwala">LinkedIn</a> •
-  📧 <a href="mailto:bhaveshpooniwala@gmail.com">Email</a>
-</p>
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/bhavesh-pooniwala  
+- 💻 GitHub: github.com/Bhaveshpooniwala1  
+- 📧 Email: pooniwalabhavesh145@gmail.com  
+- 🌍 Portfolio: bhavesh-pooniwala-portfolio.netlify.app  
 
 ---
 
-⭐ *"Cybersecurity is not just about defense — it's about understanding, adapting, and securing the future."*  
-— **Bhavesh Pooniwala**
+<h3 align="center">“Securing Systems. Empowering Futures.”</h3>
